@@ -409,7 +409,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../OUTPUTS/V1.3.0/Inkplate10_Soldered_3D.step",
+      "step": "../../OUTPUTS/V1.3.0/Soldered Inkplate 10 3D.step",
       "vrml": ""
     },
     "page_layout_descr_file": "${TAVU_KICAD_SCH_TEMPLATE}/Soldered SCH template.kicad_wks"
