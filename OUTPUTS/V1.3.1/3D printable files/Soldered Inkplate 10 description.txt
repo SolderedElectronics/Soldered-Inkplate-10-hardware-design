@@ -1,0 +1,17 @@
+Bambu slicer settings (JSON format)
+
+{
+    "bottom_surface_pattern": "monotonicline",
+    "brim_type": "no_brim",
+    "enable_overhang_speed": "0",
+    "from": "User",
+    "infill_wall_overlap": "-5%",
+    "inherits": "0.20mm Standard @BBL P1P",
+    "inner_wall_line_width": "0.42",
+    "name": "0.2mm Standard Soldered preset",
+    "print_settings_id": "0.2mm Standard Soldered preset",
+    "sparse_infill_pattern": "tri-hexagon",
+    "version": "1.4.0.14",
+    "wall_generator": "arachne",
+    "wall_loops": "3"
+}
