@@ -1,5 +1,5 @@
-SKU: 000026, 000041
-Full product name: Inkplate 10
+SKU: 333241, 333242, 333243, 333247
+Full product name: Soldered Inkplate 10
 Country of origin: Croatia
 HS tariff code: 8531204090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388676507, 732388676408, 732388676309, 732388676200
