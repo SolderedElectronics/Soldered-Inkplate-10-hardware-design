@@ -692,10 +692,10 @@
       (reference "C33") (unit 1) (value "100n") (footprint "e-radionica.com footprinti:0603C")
     )
     (path "/39252848-f551-4344-9897-c39f44d46a38/d459f929-b80a-4bd9-aecf-3012ec1f42fe"
-      (reference "C34") (unit 1) (value "DNP") (footprint "e-radionica.com footprinti:0603C")
+      (reference "C34") (unit 1) (value "12p") (footprint "e-radionica.com footprinti:0603C")
     )
     (path "/39252848-f551-4344-9897-c39f44d46a38/af2b9dba-5470-4f2f-85c2-ba1d2e7d4ea0"
-      (reference "C35") (unit 1) (value "DNP") (footprint "e-radionica.com footprinti:0603C")
+      (reference "C35") (unit 1) (value "12p") (footprint "e-radionica.com footprinti:0603C")
     )
     (path "/39252848-f551-4344-9897-c39f44d46a38/75d9af13-01ba-4d72-a872-78f20ae4ceba"
       (reference "C36") (unit 1) (value "100n") (footprint "e-radionica.com footprinti:0603C")
@@ -869,7 +869,7 @@
       (reference "K11") (unit 1) (value "HYC77-TF09-200") (footprint "e-radionica.com footprinti:HYC77-TF09-200")
     )
     (path "/0000d647-6407-453c-b45d-c28049d1a635/7ba4362f-46b1-4515-be79-4378bdf47a81"
-      (reference "K12") (unit 1) (value "SFV33R-1STE9HLF") (footprint "e-radionica.com footprinti:SFV33R-1STE9HLF")
+      (reference "K12") (unit 1) (value "SFV33R-1STBE1HLF") (footprint "e-radionica.com footprinti:SFV33R-1STE9HLF")
     )
     (path "/40573ad3-e16a-434b-ba6d-bed09e351455/fd70a244-ca77-47c1-9331-2f6cc6be3e2f"
       (reference "K13") (unit 1) (value "HEADER_MALE_1X1_Inkplate") (footprint "e-radionica.com footprinti:HEADER_MALE_1X1_Inkplate")

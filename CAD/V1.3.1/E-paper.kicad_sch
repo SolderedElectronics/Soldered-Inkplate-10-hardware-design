@@ -1396,7 +1396,7 @@
     (property "Reference" "K12" (id 0) (at 210.82 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SFV33R-1STE9HLF" (id 1) (at 203.2 134.62 0)
+    (property "Value" "SFV33R-1STBE1HLF" (id 1) (at 203.2 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "e-radionica.com footprinti:SFV33R-1STE9HLF" (id 2) (at 212.09 137.16 0)
