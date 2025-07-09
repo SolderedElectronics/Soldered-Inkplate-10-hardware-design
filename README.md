@@ -24,7 +24,7 @@ All contributions are welcome, feel free to submit the pull request. If you disc
 At Soldered, we design and manufacture a wide selection of electronic products to help you turn your ideas into acts and bring you one step closer to your final project. Our products are intented for makers and crafted in-house by our experienced team in Osijek, Croatia. We believe that sharing is a crucial element for improvement and innovation, and we work hard to stay connected with all our makers regardless of their skill or experience level. Therefore, all our products are open-source. Finally, we always have your back. If you face any problem concerning either your shopping experience or your electronics project, our team will help you deal with it, offering efficient customer service and cost-free technical support anytime. Some of those might be useful for you:
 
 - [Web Store](https://www.soldered.com)
-- [Tutorials & Projects](https://learn.soldered.com)
+- [Tutorials & Projects](https://soldered.com/blog)
 - [Community & Technical support](https://community.soldered.com)
 - [Custom PCBs](https://pcb.soldered.com)
 
